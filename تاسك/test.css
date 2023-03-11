@@ -1,0 +1,55 @@
+.titl{
+   color: dimgray;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.head{
+    background-color: dimgray;
+   padding: 15px;
+}
+.info h1{
+   border-bottom: 5px solid blue;
+    font-size: 30px;
+   color: blue;
+    font-weight: 800;
+}
+.Contacts{
+    background-color: dimgray;
+}
+.info table{
+    width: 100%;
+  
+}
+.table thead {
+    color: aliceblue;
+    background-color: black;
+}
+
+.hh1{
+    background-color: black;
+    color: white;
+}
+.hoome{
+    color: grey;
+    background-color:white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+   
+}
+.con{
+    color: grey;
+    background-color:white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.abo{
+    color: grey;
+    background-color:white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+}
